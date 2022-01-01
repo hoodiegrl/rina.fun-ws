@@ -1,0 +1,51 @@
+<style>
+::-webkit-scrollbar {
+  width: 3px;
+}
+
+
+::-webkit-scrollbar-track {
+  background: #ed7aa8; 
+}
+ 
+
+::-webkit-scrollbar-thumb {
+  background: #FFB6C1; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #111; }
+  
+body {  background-color: transparent;
+font-family: verdana;
+color: #111;
+font-weight: normal;
+font-size: 10px;
+}
+
+p, i, div { font-family: verdana;
+font-size: 10px; 
+color: #111;
+background-color: rgba(255,255,255,0.5);
+padding-bottom: 0px
+}
+
+h2, h3 {
+background-color: #ec79a8;
+padding: 5px;
+border: 2px;
+border-style:solid;
+border-color: #b35d87;
+}
+
+img {
+	padding: 3px;
+}
+</style>
+
+
+
+<h3>contact me :D</h3>
+<p><img border="0" src="../img/mailbox.gif" width="38" height="38"><br/>send me an email to im[at]rina[dot]fun<br/>
+or follow my twitter: [@]LONGSLEEVES<br/>
+or my mastodon: [@]rina[@]social.yesterweb.or</p>
